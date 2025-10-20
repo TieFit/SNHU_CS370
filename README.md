@@ -1,1 +1,2 @@
 # SNHU_CS370
+A majority of the code from this project was given as a template. The GameExperience.py and most of the .ipynb file was already finished. The main thing I did in this project was implementing the logic the agent follows throughout each epoch. Ensuring the pirate is making correct moves, and also ensuring that information such as wins, and losses are being recorded so that this information can be used to update its settings to gear it towards/away from exploration/exploitation.  
